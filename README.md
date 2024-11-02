@@ -1,7 +1,4 @@
 # I'm Max
-I'm a PM at [Yext](https://www.yext.com/). I work on [Answers](http://yext.com/products/answers).
+I'm a co-founder of [Quotient](https://www.getquotient.ai/)
 
-Areas of interest:
-- Deep learning
-- NLP
-- React/NextJS
+Check it out
